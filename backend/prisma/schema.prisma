@@ -1,0 +1,119 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Location {
+  id                Int       @id @default(autoincrement())
+  location_name     String
+  location_code     String   @unique
+  region            String?
+  accountable_contact String?
+  source            String   @default("manual")
+  assets            Asset[]
+  serviceRequests   ServiceRequest[]
+  users             User[]
+  created_at        DateTime @default(now())
+  updated_at        DateTime @updatedAt
+}
+
+model AssetType {
+  id          Int     @id @default(autoincrement())
+  code        String  @unique
+  name        String
+  description String?
+  assets      Asset[]
+}
+
+model Asset {
+  id              Int       @id @default(autoincrement())
+  asset_id        String    @unique
+  serial_number   String    @unique
+  support_type    String
+  asset_type      AssetType @relation(fields: [asset_type_id], references: [id])
+  asset_type_id   Int
+  make            String?
+  model           String?
+  description     String?
+  po_number       String?
+  po_quantity     Int?
+  location        Location  @relation(fields: [location_id], references: [id])
+  location_id     Int
+  current_owner   String?
+  owner_user_id   Int?
+  owner           User?     @relation("AssetOwner", fields: [owner_user_id], references: [id], onDelete: SetNull)
+  lifecycle_status String   @default("InStock")
+  purchase_date   DateTime?
+  warranty_expiry DateTime?
+  source          String    @default("manual")
+  created_at      DateTime  @default(now())
+  updated_at      DateTime  @updatedAt
+  active          Boolean   @default(true)
+  auditLogs       AuditLog[] @relation("AssetAuditLogs")
+  serviceRequests ServiceRequest[]
+}
+
+model ServiceRequest {
+  id                     Int       @id @default(autoincrement())
+  request_id             String    @unique
+  logged_date            DateTime  @default(now())
+  location               Location  @relation(fields: [location_id], references: [id])
+  location_id            Int
+  sub_location           String?
+  category               String
+  sub_category            String?
+  priority               String   @default("Low")
+  title                  String
+  description            String?
+  asset                  Asset?    @relation(fields: [asset_id], references: [id], onDelete: SetNull)
+  asset_id               Int?
+  reported_by            String?
+  submitter              String?
+  submitted_by_user_id   Int?
+  submittedBy            User?     @relation("ServiceRequestSubmitter", fields: [submitted_by_user_id], references: [id], onDelete: SetNull)
+  status                 String   @default("New")
+  resolution             String?
+  assigned_engineer      String?
+  expected_resolution_date DateTime?
+  sla_flag               String?
+  source                 String    @default("manual")
+  created_at             DateTime   @default(now())
+  updated_at             DateTime   @updatedAt
+  active                 Boolean    @default(true)
+  auditLogs              AuditLog[] @relation("ServiceRequestAuditLogs")
+}
+
+model AuditLog {
+  id                  Int       @id @default(autoincrement())
+  entity_type         String
+  action               String
+  field_changed        String?
+  old_value            String?
+  new_value            String?
+  changed_by           String?
+  changed_at           DateTime @default(now())
+  remark               String?
+  asset                Asset?          @relation("AssetAuditLogs", fields: [asset_id], references: [id], onDelete: Cascade)
+  asset_id             Int?
+  serviceRequest       ServiceRequest? @relation("ServiceRequestAuditLogs", fields: [service_request_id], references: [id], onDelete: Cascade)
+  service_request_id   Int?
+}
+
+model User {
+  id           Int      @id @default(autoincrement())
+  name         String
+  email        String   @unique
+  password     String
+  role         String
+  location     Location? @relation(fields: [location_id], references: [id])
+  location_id  Int?
+  source       String   @default("manual")
+  created_at   DateTime @default(now())
+  updated_at   DateTime @updatedAt
+  ownedAssets       Asset[]          @relation("AssetOwner")
+  submittedRequests ServiceRequest[] @relation("ServiceRequestSubmitter")
+}

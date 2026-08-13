@@ -1,0 +1,5098 @@
+{
+  "locations": [
+    {
+      "id": 264,
+      "location_name": "UPSO-1",
+      "location_code": "1400",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 265,
+      "location_name": "Allahabad Terminal",
+      "location_code": "1422",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 266,
+      "location_name": "Kanpur Terminal",
+      "location_code": "1423",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 267,
+      "location_name": "Mirzapur Terminal",
+      "location_code": "1432",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 268,
+      "location_name": "Mughalsarai Terminal",
+      "location_code": "1424",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 269,
+      "location_name": "LucknowTerminal (Amousi)",
+      "location_code": "1426",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 270,
+      "location_name": "Allahabad BP",
+      "location_code": "1473",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 271,
+      "location_name": "Gorakhpur CBG Plant",
+      "location_code": "1481",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 272,
+      "location_name": "Gorakhpur BP",
+      "location_code": "1470",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 273,
+      "location_name": "Kanpur BP",
+      "location_code": "1474",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 274,
+      "location_name": "Lucknow BP (Amousi BP)",
+      "location_code": "1486",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 275,
+      "location_name": "TRISHUNDI BOTTLING PLANT",
+      "location_code": "1471",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 276,
+      "location_name": "Varanasi BP/DO",
+      "location_code": "1482/1408",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 277,
+      "location_name": "Ambabai Depot",
+      "location_code": "1449",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 278,
+      "location_name": "Baitalpur Depot",
+      "location_code": "1442",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 279,
+      "location_name": "Gonda Depot",
+      "location_code": "1456",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 280,
+      "location_name": "Allahabad DO/AO",
+      "location_code": "1401/1411",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 281,
+      "location_name": "Gorakhpur DO/AO",
+      "location_code": "1406/1415",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 282,
+      "location_name": "Lucknow DO/AO",
+      "location_code": "1403/1413",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 283,
+      "location_name": "Kanpur DO/AO",
+      "location_code": "1407/1416",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 284,
+      "location_name": "Varanasi AO",
+      "location_code": "1417",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 285,
+      "location_name": "Allahabad AFS",
+      "location_code": "1029",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 286,
+      "location_name": "Fursatganj AFS",
+      "location_code": "1022",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 287,
+      "location_name": "Gorakhpur AFS",
+      "location_code": "1025",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 288,
+      "location_name": "Kanpur AFS",
+      "location_code": "1026",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 289,
+      "location_name": "Lucknow AFS",
+      "location_code": "1031",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 290,
+      "location_name": "Varanasi AFS",
+      "location_code": "1030",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 291,
+      "location_name": "Allahabad CFA",
+      "location_code": "5578",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    },
+    {
+      "id": 292,
+      "location_name": "Kanpur CFA",
+      "location_code": "5577",
+      "region": null,
+      "accountable_contact": null,
+      "source": "import",
+      "created_at": "2026-08-06T17:35:01.293Z",
+      "updated_at": "2026-08-06T17:35:01.293Z"
+    }
+  ],
+  "assets": {
+    "imported": 836,
+    "rejected": [
+      {
+        "row": 49,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 49,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R009",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 50,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 50,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R02R",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 51,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 51,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R03J",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 53,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 53,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R052",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 275,
+        "reason": "Duplicate serial number in import",
+        "data": {
+          "S.NO.": 275,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "DLINK -DGS -1024- 24 PORT",
+          "DESCRIPTION": "NW_D LINK -24 PORT",
+          "SERIAL NUMBER": "QSA9232007506",
+          "ASSET LOCATION": "GORAKHPUR DO",
+          "ASSET OWNER": "4TH FLOOR IN CONFERENCE HALL RACK"
+        }
+      },
+      {
+        "row": 564,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 564,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R04T",
+          "ASSET LOCATION": "PRAYAGRAJ AFS CIVIL AIRPORT",
+          "ASSET OWNER": "RAJESH KUMAR"
+        }
+      },
+      {
+        "row": 565,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 565,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "ROUTER",
+          "DETAILS": "CISCO 1841",
+          "DESCRIPTION": "ROUTER_CISCO_1841",
+          "SERIAL NUMBER": "FHK103915L6",
+          "ASSET LOCATION": "PRAYAGRAJ AFS CIVIL AIRPORT",
+          "ASSET OWNER": "NETWORK ROOM"
+        }
+      },
+      {
+        "row": 719,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 719,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "CPF9P24",
+          "ASSET LOCATION": "STATE OFFICE CORP PLANNING & COORDINATION",
+          "ASSET OWNER": "REKHA KUMARI"
+        }
+      },
+      {
+        "row": 720,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 720,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY002578",
+          "ASSET LOCATION": "STATE OFFICE CORP PLANNING & COORDINATION",
+          "ASSET OWNER": "REKHA KUMARI"
+        }
+      },
+      {
+        "row": 721,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 721,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V025328",
+          "ASSET LOCATION": "STATE OFFICE CORP PLANNING & COORDINATION",
+          "ASSET OWNER": "SARVJEET SINGH"
+        }
+      },
+      {
+        "row": 722,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 722,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522029FC0700",
+          "ASSET LOCATION": "STATE OFFICE CORP PLANNING & COORDINATION",
+          "ASSET OWNER": "SARVJEET SINGH"
+        }
+      },
+      {
+        "row": 723,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 723,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL OPTIPLEX 7780 AIO",
+          "DESCRIPTION": "FMS_PC_DELL AIO _I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "9M2DCD3",
+          "ASSET LOCATION": "STATE OFFICE ED SEC",
+          "ASSET OWNER": "SANJAY BHANDARI"
+        }
+      },
+      {
+        "row": 724,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 724,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03202",
+          "ASSET LOCATION": "STATE OFFICE ED SEC",
+          "ASSET OWNER": "SANJAY BHANDARI"
+        }
+      },
+      {
+        "row": 725,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 725,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03207",
+          "ASSET LOCATION": "STATE OFFICE ED SEC",
+          "ASSET OWNER": "RAJIV RANJAN KISHORE"
+        }
+      },
+      {
+        "row": 726,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 726,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522029AF0700",
+          "ASSET LOCATION": "STATE OFFICE ED SEC",
+          "ASSET OWNER": "6TH FLOOR CONFERENCE ROOM"
+        }
+      },
+      {
+        "row": 727,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 727,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095800",
+          "ASSET LOCATION": "STATE OFFICE ED SEC",
+          "ASSET OWNER": "6TH FLOOR CONFERENCE ROOM"
+        }
+      },
+      {
+        "row": 728,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 728,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095909",
+          "ASSET LOCATION": "STATE OFFICE ED SEC",
+          "ASSET OWNER": "RAJIV RANJAN KISHORE"
+        }
+      },
+      {
+        "row": 729,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 729,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02611",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "ANIL SINGH"
+        }
+      },
+      {
+        "row": 730,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 730,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L15160 MFP",
+          "DESCRIPTION": "PRINTER_LJ_A3_EPSON L15160 MFP",
+          "SERIAL NUMBER": "X6MR000311",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "ADITYA PRAKHAR KHANNA"
+        }
+      },
+      {
+        "row": 731,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 731,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6490",
+          "DESCRIPTION": "AMC_PRINTER_INKJET_EPSON L6490",
+          "SERIAL NUMBER": "X94J003819",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "D R KUNJAM"
+        }
+      },
+      {
+        "row": 732,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 732,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522026560700",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "SHASHANK SHEKHAR"
+        }
+      },
+      {
+        "row": 733,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 733,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522028230700",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "D R KUNJAM"
+        }
+      },
+      {
+        "row": 734,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 734,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522029770700",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "ADITYA PRAKHAR KHANNA"
+        }
+      },
+      {
+        "row": 735,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 735,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B5220299F0700",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "PAWAN KUMAR"
+        }
+      },
+      {
+        "row": 736,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 736,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A150700",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "AKASH DEEP SINGH"
+        }
+      },
+      {
+        "row": 737,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 737,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095809",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "OM PRAKASH CHAURASIYA"
+        }
+      },
+      {
+        "row": 738,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 738,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095831",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "DAN SINGH"
+        }
+      },
+      {
+        "row": 739,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 739,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095959",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "VISHNU (HAULAGE )"
+        }
+      },
+      {
+        "row": 740,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 740,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095966",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "ANIL SINGH"
+        }
+      },
+      {
+        "row": 741,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 741,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096230",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "MAMTA (HAULAGE)"
+        }
+      },
+      {
+        "row": 742,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 742,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096318",
+          "ASSET LOCATION": "STATE OFFICE ENGG",
+          "ASSET OWNER": "ABHISHEK (HAULAGE )"
+        }
+      },
+      {
+        "row": 743,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 743,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "DMP",
+          "DETAILS": "EPSON LX 310",
+          "DESCRIPTION": "PRINTER_DMP_EPSON LX 310",
+          "SERIAL NUMBER": "Q7EY016586",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "RANJANA MISHRA/ CHEQUE PRINTING"
+        }
+      },
+      {
+        "row": 744,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 744,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02787",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "SUJEET KUMAR GUPTA"
+        }
+      },
+      {
+        "row": 745,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 745,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03064",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "SURAJ DHONDIRAM RANDHUMALE"
+        }
+      },
+      {
+        "row": 746,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 746,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03065",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "RAVI MISHRA"
+        }
+      },
+      {
+        "row": 747,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 747,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03716",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "BHUPENDER SINGH NEGI"
+        }
+      },
+      {
+        "row": 748,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 748,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY006256",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "RAJEEV KUMAR"
+        }
+      },
+      {
+        "row": 749,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 749,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET P1606 DN",
+          "DESCRIPTION": "PRINTER_LJ_HP P1606 DN",
+          "SERIAL NUMBER": "VNFCL29436",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "RAKESH YADAV"
+        }
+      },
+      {
+        "row": 750,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 750,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05608",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "TRAINEE ( SHREYA SHAH )"
+        }
+      },
+      {
+        "row": 751,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 751,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R028",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "TRAINEE  ( PRIYANKA SINGH )"
+        }
+      },
+      {
+        "row": 752,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 752,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R03Y",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "AFTAB (HAULAGE )"
+        }
+      },
+      {
+        "row": 753,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 753,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522026E20700",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "RANJANA MISHRA"
+        }
+      },
+      {
+        "row": 972,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 972,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B5220278F0700",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "MOHD. ZUBAIR"
+        }
+      },
+      {
+        "row": 754,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 754,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522027A80700",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "SAURABH KUMAR"
+        }
+      },
+      {
+        "row": 755,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 755,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522027E50700",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "SUNIL KUMAR YADAV"
+        }
+      },
+      {
+        "row": 756,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 756,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522028640700",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "LALIT KUMAR"
+        }
+      },
+      {
+        "row": 757,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 757,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522029200700",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "SURAJ DHONDIRAM RANDHUMALE"
+        }
+      },
+      {
+        "row": 758,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 758,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A000700",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "ADITYA JAIN"
+        }
+      },
+      {
+        "row": 759,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 759,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A840700",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "RAVI MISHRA"
+        }
+      },
+      {
+        "row": 760,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 760,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A880700",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "RAKESH YADAV"
+        }
+      },
+      {
+        "row": 761,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 761,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095580",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "TRAINEE  (MILI MITTAL )"
+        }
+      },
+      {
+        "row": 762,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 762,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095592",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "ANOOP KUMAR"
+        }
+      },
+      {
+        "row": 763,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 763,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095641",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "TRAINEE (PRIYANSHU TIWARI )"
+        }
+      },
+      {
+        "row": 764,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 764,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095663",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "TRAINEE (   SNEHA )"
+        }
+      },
+      {
+        "row": 765,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 765,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095680",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "MUSTAQ (HAULAGE )"
+        }
+      },
+      {
+        "row": 766,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 766,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095725",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "PRAGATI AGARWAL"
+        }
+      },
+      {
+        "row": 767,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 767,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095794",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "BHUPENDER SINGH NEGI"
+        }
+      },
+      {
+        "row": 768,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 768,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095795",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "RAJEEV KUMAR"
+        }
+      },
+      {
+        "row": 769,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 769,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095861",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "SUJEET KUMAR GUPTA"
+        }
+      },
+      {
+        "row": 770,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 770,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095910",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "LAL JI"
+        }
+      },
+      {
+        "row": 771,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 771,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096215",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "HARSHLATA SAHU"
+        }
+      },
+      {
+        "row": 772,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 772,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096298",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "RAVI GOEL"
+        }
+      },
+      {
+        "row": 773,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 773,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096306",
+          "ASSET LOCATION": "STATE OFFICE FINANCE",
+          "ASSET OWNER": "TRAINEE  ( ABHINAY KUMAR )"
+        }
+      },
+      {
+        "row": 774,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 774,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL OPTIPLEX 5400 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 5400 AIO_I7_32GB RAM_WIN 10",
+          "SERIAL NUMBER": "2J5LBV3",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "DARSHAN KESHARI"
+        }
+      },
+      {
+        "row": 775,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 775,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL OPTIPLEX 5400 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 5400 AIO_I7_32GB RAM_WIN 10",
+          "SERIAL NUMBER": "4J5LBV3",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "RAJESH KUMAR"
+        }
+      },
+      {
+        "row": 776,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 776,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL OPTIPLEX 5400 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 5400 AIO_I7_32GB RAM_WIN 10",
+          "SERIAL NUMBER": "7J5LBV3",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "MOHD JAVED SIDDIQUI"
+        }
+      },
+      {
+        "row": 777,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 777,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "7NQGP24",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "BHODRO LAKRA"
+        }
+      },
+      {
+        "row": 778,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 778,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "891BP24",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "SUNIL KUMAR SAMIR"
+        }
+      },
+      {
+        "row": 779,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 779,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL OPTIPLEX 5400 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 5400 AIO_I7_32GB RAM_WIN 10",
+          "SERIAL NUMBER": "8J5LBV3",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "ABHISHEK SHARMA"
+        }
+      },
+      {
+        "row": 780,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 780,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "B91BP24",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "ANSHUMAN BHATIA"
+        }
+      },
+      {
+        "row": 781,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 781,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02766",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "BHODRO LAKRA"
+        }
+      },
+      {
+        "row": 782,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 782,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03055",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "ABHISHEK SHARMA"
+        }
+      },
+      {
+        "row": 783,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 783,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03058",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "RAJESH KUMAR"
+        }
+      },
+      {
+        "row": 784,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 784,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03384",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "SUNIL KUMAR SAMIR"
+        }
+      },
+      {
+        "row": 785,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 785,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY006201",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "DARSHAN KESHARI"
+        }
+      },
+      {
+        "row": 786,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 786,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY006277",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "MOHD JAVED SIDDIQUI"
+        }
+      },
+      {
+        "row": 787,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 787,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V029175",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "ANSHUMAN BHATIA"
+        }
+      },
+      {
+        "row": 788,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 788,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET PRO M227SDN",
+          "DESCRIPTION": "PRINTER_LJ_HP PRO M227SDN",
+          "SERIAL NUMBER": "VNC3H02483",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "ARVIND KUMAR"
+        }
+      },
+      {
+        "row": 789,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 789,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095748",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "PRADEEP CHANDRA"
+        }
+      },
+      {
+        "row": 790,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 790,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096191",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "GHANSHYAM VISHWAKARMA"
+        }
+      },
+      {
+        "row": 791,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 791,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096193",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "ARVIND KUMAR"
+        }
+      },
+      {
+        "row": 792,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 792,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096253",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "MAHESH KUMAR"
+        }
+      },
+      {
+        "row": 793,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 793,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096339",
+          "ASSET LOCATION": "STATE OFFICE HOD SECTION",
+          "ASSET OWNER": "AJAY KUMAR"
+        }
+      },
+      {
+        "row": 794,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 794,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY006313",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "SANTOSH KUMAR GUPTA"
+        }
+      },
+      {
+        "row": 795,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 795,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6490",
+          "DESCRIPTION": "AMC_PRINTER_INKJET_EPSON L6490",
+          "SERIAL NUMBER": "X94J001395",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "RAJIV RANJAN KUMAR"
+        }
+      },
+      {
+        "row": 796,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 796,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET 1020",
+          "DESCRIPTION": "PRINTER_LJ_HP 1020",
+          "SERIAL NUMBER": "CNC0169160",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "SANJEEV RAI"
+        }
+      },
+      {
+        "row": 797,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 797,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET 1020",
+          "DESCRIPTION": "PRINTER_LJ_HP 1020",
+          "SERIAL NUMBER": "CNC0803158",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "GATE PASS (PINKI) (HAULAGE )"
+        }
+      },
+      {
+        "row": 798,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 798,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET 202 DW",
+          "DESCRIPTION": "PRINTER_LJ_HP 202 DW",
+          "SERIAL NUMBER": "VNC3522229",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "B L PAL"
+        }
+      },
+      {
+        "row": 799,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 799,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET MFP M132NW",
+          "DESCRIPTION": "PRINTER_LJ_HP MFP M132NW",
+          "SERIAL NUMBER": "VNC6506459",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "LAL BAHADUR SAH"
+        }
+      },
+      {
+        "row": 800,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 800,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05638",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "B L PAL"
+        }
+      },
+      {
+        "row": 801,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 801,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05646",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "MOHD ASIF "
+        }
+      },
+      {
+        "row": 802,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 802,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05648",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "SUNIL YADAV"
+        }
+      },
+      {
+        "row": 803,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 803,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R03G",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "RAIESH ANSARI(HAULAGE )"
+        }
+      },
+      {
+        "row": 804,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 804,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R061",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "CHANDRESH (HAULAGE)"
+        }
+      },
+      {
+        "row": 805,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 805,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522027940700",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "SUMIT/RAVIKANT"
+        }
+      },
+      {
+        "row": 806,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 806,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522028CF0700",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "MANI SHARMA"
+        }
+      },
+      {
+        "row": 807,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 807,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522028FD0700",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "ANURAG DIXIT"
+        }
+      },
+      {
+        "row": 808,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 808,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522029A30700",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "SANJEEV RAI"
+        }
+      },
+      {
+        "row": 809,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 809,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202AAB0700",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "RAJIV RANJAN KUMAR"
+        }
+      },
+      {
+        "row": 810,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 810,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095812",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "SANGEETA DEVI PAL"
+        }
+      },
+      {
+        "row": 811,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 811,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095824",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "MANOJ KUMAR YADAV"
+        }
+      },
+      {
+        "row": 812,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 812,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095829",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "BINITA SEN GUPTA"
+        }
+      },
+      {
+        "row": 813,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 813,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095894",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "ABHISHEK DUBEY"
+        }
+      },
+      {
+        "row": 814,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 814,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095914",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "ANANNYA RAJLAXHI"
+        }
+      },
+      {
+        "row": 815,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 815,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096206",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "LAL BAHADUR SAH"
+        }
+      },
+      {
+        "row": 816,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 816,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096233",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "GATE PASS (PINKI) (HAULAGE )"
+        }
+      },
+      {
+        "row": 817,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 817,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096323",
+          "ASSET LOCATION": "STATE OFFICE HR",
+          "ASSET OWNER": "RICHA SHARMA"
+        }
+      },
+      {
+        "row": 818,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 818,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL OPTIPLEX 5400 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 5400 AIO_I7_32GB RAM_WIN 10",
+          "SERIAL NUMBER": "1J5LBV3",
+          "ASSET LOCATION": "STATE OFFICE HR ",
+          "ASSET OWNER": "SANTOSH KUMAR GUPTA"
+        }
+      },
+      {
+        "row": 819,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 819,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL OPTIPLEX 5400 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 5400 AIO_I7_32GB RAM_WIN 10",
+          "SERIAL NUMBER": "DH5LBV3",
+          "ASSET LOCATION": "STATE OFFICE INST. BUSS.",
+          "ASSET OWNER": "VISHWANATH MUCKERJI"
+        }
+      },
+      {
+        "row": 820,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 820,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY006252",
+          "ASSET LOCATION": "STATE OFFICE INST. BUSS.",
+          "ASSET OWNER": "VIJAY PRAKASH"
+        }
+      },
+      {
+        "row": 821,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 821,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V028910",
+          "ASSET LOCATION": "STATE OFFICE INST. BUSS.",
+          "ASSET OWNER": "VISHWANATH MUCKERJI"
+        }
+      },
+      {
+        "row": 822,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 822,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522028190700",
+          "ASSET LOCATION": "STATE OFFICE INST. BUSS.",
+          "ASSET OWNER": "MD WASIM PERWEZ"
+        }
+      },
+      {
+        "row": 823,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 823,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522028390700",
+          "ASSET LOCATION": "STATE OFFICE INST. BUSS.",
+          "ASSET OWNER": "VIJAY PRAKASH"
+        }
+      },
+      {
+        "row": 824,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 824,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095792",
+          "ASSET LOCATION": "STATE OFFICE INST. BUSS.",
+          "ASSET OWNER": "ASHEESH KUMAR ( HAULAGE )"
+        }
+      },
+      {
+        "row": 825,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 825,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095860",
+          "ASSET LOCATION": "STATE OFFICE INST. BUSS.",
+          "ASSET OWNER": "KIRTI (HAULAGE)"
+        }
+      },
+      {
+        "row": 826,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 826,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SCANNER",
+          "DETAILS": "HP SCANJET PRO 2500 F1",
+          "DESCRIPTION": "SCANNER_HP SCANJET PRO 2500",
+          "SERIAL NUMBER": "CN78AA101T",
+          "ASSET LOCATION": "STATE OFFICE INST. BUSS.",
+          "ASSET OWNER": "AJAY KUMAR"
+        }
+      },
+      {
+        "row": 827,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 827,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "8NN8P24",
+          "ASSET LOCATION": "STATE OFFICE LAW",
+          "ASSET OWNER": "MOHAMMAD SHOAIB"
+        }
+      },
+      {
+        "row": 828,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 828,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY006328",
+          "ASSET LOCATION": "STATE OFFICE LAW",
+          "ASSET OWNER": "MOHAMMAD SHOAIB"
+        }
+      },
+      {
+        "row": 829,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 829,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R049",
+          "ASSET LOCATION": "STATE OFFICE LAW",
+          "ASSET OWNER": "VIRENDRA KUMAR (HAULAGE)"
+        }
+      },
+      {
+        "row": 830,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 830,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R04C",
+          "ASSET LOCATION": "STATE OFFICE LAW",
+          "ASSET OWNER": "SANDHYA (HAULAGE )"
+        }
+      },
+      {
+        "row": 831,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 831,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A430700",
+          "ASSET LOCATION": "STATE OFFICE LAW",
+          "ASSET OWNER": "SHREYASH MANI"
+        }
+      },
+      {
+        "row": 832,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 832,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095818",
+          "ASSET LOCATION": "STATE OFFICE LAW",
+          "ASSET OWNER": "KIRTHARTH PANDEY"
+        }
+      },
+      {
+        "row": 833,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 833,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "8NQGP24",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "NITESH KUMAR SRIVASTAVA"
+        }
+      },
+      {
+        "row": 834,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 834,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "C91BP24",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "PRABHAT KUMAR VERMA"
+        }
+      },
+      {
+        "row": 835,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 835,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03391",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "MANIK BISWAS"
+        }
+      },
+      {
+        "row": 836,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 836,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY006268",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "NITESH KUMAR SRIVASTAVA"
+        }
+      },
+      {
+        "row": 837,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 837,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V031033",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "RAVI KUMAR SINGH"
+        }
+      },
+      {
+        "row": 838,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 838,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V031246",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "PRADIPTA SANKAR SADHUKHAN"
+        }
+      },
+      {
+        "row": 839,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 839,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V031249",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "PRABHAT KUMAR VERMA"
+        }
+      },
+      {
+        "row": 840,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 840,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET 1020",
+          "DESCRIPTION": "PRINTER_LJ_HP 1020",
+          "SERIAL NUMBER": "CNCH610128",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "HARISH KUMAR"
+        }
+      },
+      {
+        "row": 841,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 841,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05632",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "PAPIHA ( HAULAGE )"
+        }
+      },
+      {
+        "row": 842,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 842,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R054",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "APIL ( HAULAGE )"
+        }
+      },
+      {
+        "row": 843,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 843,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA948QQLJ",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "TRAINEE  (MANVENDRA )"
+        }
+      },
+      {
+        "row": 844,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 844,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B5220281C0700",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "PRADIPTA SANKAR SADHUKHAN"
+        }
+      },
+      {
+        "row": 845,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 845,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A8C0700",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "MANIK BISWAS"
+        }
+      },
+      {
+        "row": 846,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 846,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095806",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "HIMANSHU VERMA"
+        }
+      },
+      {
+        "row": 847,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 847,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095839",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "RAVI KUMAR SINGH"
+        }
+      },
+      {
+        "row": 848,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 848,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095865",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "KANHAIYA LAL SAH"
+        }
+      },
+      {
+        "row": 849,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 849,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095886",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "ANJALI THAKUR"
+        }
+      },
+      {
+        "row": 850,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 850,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095912",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "PRIYA SHARMA"
+        }
+      },
+      {
+        "row": 851,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 851,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095918",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "DEVENDRA KUMAR PAL"
+        }
+      },
+      {
+        "row": 852,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 852,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096172",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "AMIT KUMAR"
+        }
+      },
+      {
+        "row": 853,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 853,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096308",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "DEWAKAR TRIVEDI"
+        }
+      },
+      {
+        "row": 854,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 854,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096312",
+          "ASSET LOCATION": "STATE OFFICE LPG",
+          "ASSET OWNER": "HARISH KUMAR"
+        }
+      },
+      {
+        "row": 855,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 855,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03019",
+          "ASSET LOCATION": "STATE OFFICE LUBE",
+          "ASSET OWNER": "M K JAIN"
+        }
+      },
+      {
+        "row": 856,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 856,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET P1007",
+          "DESCRIPTION": "PRINTER_LJ_HP P1007",
+          "SERIAL NUMBER": "WNFN35564",
+          "ASSET LOCATION": "STATE OFFICE LUBE",
+          "ASSET OWNER": "NITIN TYAGI"
+        }
+      },
+      {
+        "row": 857,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 857,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05606",
+          "ASSET LOCATION": "STATE OFFICE LUBE",
+          "ASSET OWNER": "RAHUL (HAULAGE )"
+        }
+      },
+      {
+        "row": 858,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 858,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05640",
+          "ASSET LOCATION": "STATE OFFICE LUBE",
+          "ASSET OWNER": "ANAM NUHI"
+        }
+      },
+      {
+        "row": 859,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 859,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05643",
+          "ASSET LOCATION": "STATE OFFICE LUBE",
+          "ASSET OWNER": "RAJESH KUMAR TRIPATHI"
+        }
+      },
+      {
+        "row": 860,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 860,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A0B0700",
+          "ASSET LOCATION": "STATE OFFICE LUBE",
+          "ASSET OWNER": "M K JAIN"
+        }
+      },
+      {
+        "row": 861,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 861,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A940700",
+          "ASSET LOCATION": "STATE OFFICE LUBE",
+          "ASSET OWNER": "OMKAR SINGH"
+        }
+      },
+      {
+        "row": 862,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 862,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095607",
+          "ASSET LOCATION": "STATE OFFICE LUBE",
+          "ASSET OWNER": "NITIN TYAGI"
+        }
+      },
+      {
+        "row": 863,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 863,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095913",
+          "ASSET LOCATION": "STATE OFFICE LUBE",
+          "ASSET OWNER": "SHASHANK SINGH"
+        }
+      },
+      {
+        "row": 864,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 864,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "991BP24",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "VINEET AGARWAL"
+        }
+      },
+      {
+        "row": 865,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 865,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02488",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "RAJESH KUMAR GUPTA"
+        }
+      },
+      {
+        "row": 867,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 867,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V029572",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "MEPHUN DANGSHAWA MARING"
+        }
+      },
+      {
+        "row": 868,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 868,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V030544",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "VINEET AGARWAL"
+        }
+      },
+      {
+        "row": 869,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 869,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R02W",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "PRATIBHA  ( HAULAGE )"
+        }
+      },
+      {
+        "row": 870,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 870,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R03P",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "KRISHNA KUMAR (HAULAGE )"
+        }
+      },
+      {
+        "row": 871,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 871,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R05X",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "SUSHIL SRIVASTAVA (HAULAGE)"
+        }
+      },
+      {
+        "row": 872,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 872,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B5220279E0700",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "Mephun Dangshawa Maring"
+        }
+      },
+      {
+        "row": 873,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 873,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522029280700",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "RAVI SHANKAR YADAV"
+        }
+      },
+      {
+        "row": 875,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 875,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095827",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "MANOJ SRIVASTAVA"
+        }
+      },
+      {
+        "row": 876,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 876,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095836",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "RENU OJHA"
+        }
+      },
+      {
+        "row": 877,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 877,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095948",
+          "ASSET LOCATION": "STATE OFFICE OPERATIONS",
+          "ASSET OWNER": "RAJESH KUMAR GUPTA"
+        }
+      },
+      {
+        "row": 878,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 878,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "8MN8P24",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "RAJESH KUMAR GUPTA"
+        }
+      },
+      {
+        "row": 879,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 879,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "F91BP24",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "RAKESH SAROJ"
+        }
+      },
+      {
+        "row": 880,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 880,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02782",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "MAHENDRA SRIVASTAVA"
+        }
+      },
+      {
+        "row": 881,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 881,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03701",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "SUNIL VIKRAM SINGH"
+        }
+      },
+      {
+        "row": 882,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 882,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V029588",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "AJAY PRATAP SINGH"
+        }
+      },
+      {
+        "row": 883,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 883,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V031214",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "RAKESH SAROJ"
+        }
+      },
+      {
+        "row": 884,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 884,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V031215",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "RAJESH KUMAR GUPTA"
+        }
+      },
+      {
+        "row": 885,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 885,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET P1606 DN",
+          "DESCRIPTION": "PRINTER_LJ_HP P1606 DN",
+          "SERIAL NUMBER": "VNF3L29438",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "COMMON RETAIL SALE"
+        }
+      },
+      {
+        "row": 886,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 886,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET P1007",
+          "DESCRIPTION": "PRINTER_LJ_HP P1007",
+          "SERIAL NUMBER": "VNFNP46453",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "VIVEK KUMAR SINGH"
+        }
+      },
+      {
+        "row": 887,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 887,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05630",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "ABHISHEK KUMAR AGARWAL (FLEET MKT)"
+        }
+      },
+      {
+        "row": 888,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 888,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R006",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "TRAINEE (TALLAH )"
+        }
+      },
+      {
+        "row": 889,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 889,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R03W",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "TRAINEE  (SAKSHI GUPTA) "
+        }
+      },
+      {
+        "row": 890,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 890,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A320700",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "AJAY PRATAP SINGH"
+        }
+      },
+      {
+        "row": 891,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 891,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095587",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "CHANDRABHAN (HAULAGE)"
+        }
+      },
+      {
+        "row": 892,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 892,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095670",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "RAHUL SHARMA"
+        }
+      },
+      {
+        "row": 893,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 893,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095772",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "AKHILESH (HAULAGE )"
+        }
+      },
+      {
+        "row": 894,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 894,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095820",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "AKASH SAHU"
+        }
+      },
+      {
+        "row": 895,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 895,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095847",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "SUNEEL KUMAR(HAULAGE)"
+        }
+      },
+      {
+        "row": 896,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 896,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095870",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "MAHENDRA SRIVASTAVA"
+        }
+      },
+      {
+        "row": 897,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 897,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095950",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "VIVEK KUMAR SINGH"
+        }
+      },
+      {
+        "row": 898,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 898,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096195",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "SATYANSHU SINGH"
+        }
+      },
+      {
+        "row": 899,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 899,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096263",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "SUNIL VIKRAM SINGH"
+        }
+      },
+      {
+        "row": 900,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 900,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096264",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "RAMENDRANATH MONDAL "
+        }
+      },
+      {
+        "row": 901,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 901,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096344",
+          "ASSET LOCATION": "STATE OFFICE RETAIL SALES ",
+          "ASSET OWNER": "SACHIDA NAND RAMAN"
+        }
+      },
+      {
+        "row": 902,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 902,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "4MN8P24",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "SHRUTI YADAV"
+        }
+      },
+      {
+        "row": 903,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 903,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "5MN8P24",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "SHIKHAR SINGH"
+        }
+      },
+      {
+        "row": 904,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 904,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL OPTIPLEX 5400 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 5400 AIO_I7_32GB RAM_WIN 10",
+          "SERIAL NUMBER": "9J5LBV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 905,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 905,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "9PF9P24",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 906,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 906,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL OPTIPLEX 5400 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 5400 AIO_I7_32GB RAM_WIN 10",
+          "SERIAL NUMBER": "BH5LBV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 907,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 907,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL OPTIPLEX 7780 AIO",
+          "DESCRIPTION": "FMS_PC_DELL AIO _I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "BM2DCD3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 908,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 908,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL OPTIPLEX 5400 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 5400 AIO_I7_32GB RAM_WIN 10",
+          "SERIAL NUMBER": "CJ5LBV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "MUKESH SINGH RANA"
+        }
+      },
+      {
+        "row": 909,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 909,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "DB1BP24",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 910,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 910,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "GQF9P24",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "ARPITA VERMA"
+        }
+      },
+      {
+        "row": 911,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 911,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "AIO",
+          "DETAILS": "DELL 7420 AIO",
+          "DESCRIPTION": "FMS_AIO_DELL OPTIPLEX 7420 AIO_I7_32GB RAM_WIN 11",
+          "SERIAL NUMBER": "HPF9P24",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "SRITAM SWAIN"
+        }
+      },
+      {
+        "row": 914,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 914,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02668",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 915,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 915,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02706",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 916,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 916,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02757",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 917,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 917,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02776",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 918,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 918,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02783",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 919,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 919,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02786",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 920,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 920,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02789",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "SHRUTI YADAV"
+        }
+      },
+      {
+        "row": 921,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 921,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV02793",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 922,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 922,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03053",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 923,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 923,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03057",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 924,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 924,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03062",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 925,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 925,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03072",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "COCO MUNSIPULIA"
+        }
+      },
+      {
+        "row": 926,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 926,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03074",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 927,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 927,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03076",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "GUEST HOUSE GOMTI NAGAR"
+        }
+      },
+      {
+        "row": 866,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 866,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03200",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 928,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 928,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03204",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 929,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 929,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03705",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 930,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 930,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03711",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 931,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 931,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03712",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 933,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 933,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03715",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 934,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 934,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "Canon GX4070",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_CANON GX4070",
+          "SERIAL NUMBER": "KPLV03718",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 935,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 935,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY002454",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "ISHELPDESK (HARITOSH )"
+        }
+      },
+      {
+        "row": 936,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 936,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY002604",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 937,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 937,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY006258",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "NO USER"
+        }
+      },
+      {
+        "row": 938,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 938,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY006263",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 939,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 939,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6190 INKJET",
+          "DESCRIPTION": "PRINTER_INKJET_EPSON L6190",
+          "SERIAL NUMBER": "X4CY006306",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "RAJESH GUPTA"
+        }
+      },
+      {
+        "row": 940,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 940,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V029557",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "COCO ALIGANJ "
+        }
+      },
+      {
+        "row": 941,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 941,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V031093",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "COCO GOMTI NAGAR "
+        }
+      },
+      {
+        "row": 942,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 942,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "INKJET PRINTER",
+          "DETAILS": "EPSON L6460",
+          "DESCRIPTION": "FMS_PRINTER_INKJET_EPSON L6460",
+          "SERIAL NUMBER": "X94V031101",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "MUKESH SINGH RANA"
+        }
+      },
+      {
+        "row": 943,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 943,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "KVM",
+          "DETAILS": "ATEN PS/2-USB KVMP CS1708A SWITCH",
+          "DESCRIPTION": "NW_OTHER_KVM_ATEN PS/2-USB KVMP CS1708A SWITCH",
+          "SERIAL NUMBER": "2C48509C58",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "NETWORK ROOM"
+        }
+      },
+      {
+        "row": 944,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 944,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "DELL LATITUDE 5431",
+          "DESCRIPTION": "FMS_LAPTOP_DELL LATITUDE 5431_I7_16GM RAM_WIN10",
+          "SERIAL NUMBER": "2T95RV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "SANJAY BHANDARI"
+        }
+      },
+      {
+        "row": 945,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 945,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "DELL LATITUDE 5431",
+          "DESCRIPTION": "FMS_LAPTOP_DELL LATITUDE 5431_I7_16GM RAM_WIN10",
+          "SERIAL NUMBER": "5P6RRV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 946,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 946,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "DELL LATITUDE 5431",
+          "DESCRIPTION": "FMS_LAPTOP_DELL LATITUDE 5431_I7_16GM RAM_WIN10",
+          "SERIAL NUMBER": "5R95RV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 947,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 947,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "DELL LATITUDE 5431",
+          "DESCRIPTION": "FMS_LAPTOP_DELL LATITUDE 5431_I7_16GM RAM_WIN10",
+          "SERIAL NUMBER": "6S95RV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 948,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 948,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "DELL LATITUDE 5431",
+          "DESCRIPTION": "FMS_LAPTOP_DELL LATITUDE 5431_I7_16GM RAM_WIN10",
+          "SERIAL NUMBER": "8S95RV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 949,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 949,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "DELL LATITUDE 5431",
+          "DESCRIPTION": "FMS_LAPTOP_DELL LATITUDE 5431_I7_16GM RAM_WIN10",
+          "SERIAL NUMBER": "9P95RV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 950,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 950,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "DELL LATITUDE 5431",
+          "DESCRIPTION": "FMS_LAPTOP_DELL LATITUDE 5431_I7_16GM RAM_WIN10",
+          "SERIAL NUMBER": "DBH5RV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 951,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 951,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "DELL LATITUDE 5431",
+          "DESCRIPTION": "FMS_LAPTOP_DELL LATITUDE 5431_I7_16GM RAM_WIN10",
+          "SERIAL NUMBER": "FDH5RV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 952,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 952,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "DELL LATITUDE 5431",
+          "DESCRIPTION": "FMS_LAPTOP_DELL LATITUDE 5431_I7_16GM RAM_WIN10",
+          "SERIAL NUMBER": "GM95RV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 953,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 953,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "DELL LATITUDE 5431",
+          "DESCRIPTION": "FMS_LAPTOP_DELL LATITUDE 5431_I7_16GM RAM_WIN10",
+          "SERIAL NUMBER": "H348VV3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 954,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 954,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "LENOVO THINKPAD T470",
+          "DESCRIPTION": "LAPTOP_LENOVO THINKPAD T470_I7_8GM_RAM_WIN10",
+          "SERIAL NUMBER": "PF1190WW",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 955,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 955,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "LENOVO THINKPAD T470",
+          "DESCRIPTION": "LAPTOP_LENOVO THINKPAD T470_I7_8GM_RAM_WIN10",
+          "SERIAL NUMBER": "PF1190X5",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 956,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 956,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "LENOVO THINKPAD T470",
+          "DESCRIPTION": "LAPTOP_LENOVO THINKPAD T470_I7_8GM_RAM_WIN10",
+          "SERIAL NUMBER": "PF1190XC",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 957,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 957,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "LENOVO THINKPAD T470",
+          "DESCRIPTION": "LAPTOP_LENOVO THINKPAD T470_I7_8GM_RAM_WIN10",
+          "SERIAL NUMBER": "PF1190XQ",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 958,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 958,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LAPTOP",
+          "DETAILS": "LENOVO THINKPAD T470",
+          "DESCRIPTION": "LAPTOP_LENOVO THINKPAD T470_I7_8GM_RAM_WIN10",
+          "SERIAL NUMBER": "PF1190Y1",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 959,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 959,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "LEXMARK MX 321ADN MFP",
+          "DESCRIPTION": "PRINTER_LJ_LEXMARK MX321 MFP",
+          "SERIAL NUMBER": "701794230GX13",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "Physical damage"
+        }
+      },
+      {
+        "row": 960,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 960,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET 126NW",
+          "DESCRIPTION": "PRINTER_LJ_HP 126NW",
+          "SERIAL NUMBER": "CNB6H4GPKN",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "TRANSIT ALIGANJ"
+        }
+      },
+      {
+        "row": 962,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 962,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET MFP M132NW",
+          "DESCRIPTION": "PRINTER_LJ_HP MFP M132NW",
+          "SERIAL NUMBER": "VNC4P06788",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 963,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 963,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "LASER PRINTER",
+          "DETAILS": "HP LASERJET P1007",
+          "DESCRIPTION": "PRINTER_LJ_HP P1007",
+          "SERIAL NUMBER": "VNFNP46463",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "NO USER"
+        }
+      },
+      {
+        "row": 964,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 964,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05626",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "HARITOSH (ISHELPDESK)"
+        }
+      },
+      {
+        "row": 965,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 965,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05634",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "SHASHIKANT (ISHELPDESK )"
+        }
+      },
+      {
+        "row": 966,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 966,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACXXEL I7",
+          "DESCRIPTION": "FMS_PC_ACXXEL_I7_16GB_RAM_WIN 10",
+          "SERIAL NUMBER": "ACL05639",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "TRANSIT ALIGANJ"
+        }
+      },
+      {
+        "row": 967,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 967,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R04H",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 968,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 968,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R05S",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "SWAGAT RO UNNAO"
+        }
+      },
+      {
+        "row": 969,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 969,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R066",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 970,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 970,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "HP PRODESK 600 ",
+          "DESCRIPTION": "PC_HP CORE_I7_16GB_RAM_WIN10",
+          "SERIAL NUMBER": "INA916R06M",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 971,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 971,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B5220268D0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 973,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 973,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522027D50700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 974,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 974,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522027FE0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 975,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 975,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B5220281D0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 976,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 976,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522028350700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 977,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 977,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B5220284A0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 978,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 978,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522028560700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 979,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 979,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B5220285C0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 980,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 980,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522028BD0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 981,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 981,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522028E50700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 982,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 982,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B5220293B0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "ISHELDESK (AMARJEET )"
+        }
+      },
+      {
+        "row": 983,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 983,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B5220296E0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "GUEST HOUSE GOMTI NAGAR"
+        }
+      },
+      {
+        "row": 984,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 984,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B5220296F0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 985,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 985,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522029790700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "ABHINAV (ISHELPDESK )"
+        }
+      },
+      {
+        "row": 874,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 874,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522029870700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 986,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 986,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522029EA0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "SHIVA NANDAN (ISHELPDESK )"
+        }
+      },
+      {
+        "row": 987,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 987,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B522029F40700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "JITENDRA VERMA (HAULAGE )"
+        }
+      },
+      {
+        "row": 988,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 988,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A020700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "4TH FLOOR CONF ROOM"
+        }
+      },
+      {
+        "row": 989,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 989,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A0A0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 990,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 990,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A2E0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 991,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 991,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A560700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 992,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 992,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A730700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 993,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 993,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202A8A0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "COCO GOMTI NAGAR"
+        }
+      },
+      {
+        "row": 994,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 994,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202AB70700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 995,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 995,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200-P500",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M220_P500_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UD306SI01B52202AFC0700",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 996,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 996,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095642",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 997,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 997,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095746",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "COCO MUNSI PULIA "
+        }
+      },
+      {
+        "row": 999,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 999,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095801",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "ANNIE RAJORIA"
+        }
+      },
+      {
+        "row": 1000,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1000,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095810",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "TRANSIT ALIGANJ"
+        }
+      },
+      {
+        "row": 1001,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1001,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095898",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1002,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1002,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095954",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1003,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1003,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5095964",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1005,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1005,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096197",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "COCO ALIGANJ "
+        }
+      },
+      {
+        "row": 1006,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1006,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096198",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1007,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1007,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096271",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1008,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1008,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096302",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1009,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1009,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "PC",
+          "DETAILS": "ACER VERITON M200 - P565",
+          "DESCRIPTION": "FMS_PC_ACER VERITON M200_P565_AMD RYZEN 7_16GB RAM_WIN 11",
+          "SERIAL NUMBER": "UXVTUSI512M5096352",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1010,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1010,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "ROUTER",
+          "DETAILS": "CISCO 1941",
+          "DESCRIPTION": "ROUTER_CISCO_1941",
+          "SERIAL NUMBER": "FGL1712106J",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1011,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1011,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "ROUTER",
+          "DETAILS": "CISCO 2911",
+          "DESCRIPTION": "ROUTER_CISCO_2911",
+          "SERIAL NUMBER": "FGL1934102U",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "SERVER ROOM"
+        }
+      },
+      {
+        "row": 1012,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1012,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "ROUTER",
+          "DETAILS": "CISCO 1841",
+          "DESCRIPTION": "ROUTER_CISCO_1841",
+          "SERIAL NUMBER": "FHK103915L3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1013,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1013,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "ROUTER",
+          "DETAILS": "CISCO 1841",
+          "DESCRIPTION": "ROUTER_CISCO_1841",
+          "SERIAL NUMBER": "FHK103915ZU",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1014,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1014,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "ROUTER",
+          "DETAILS": "CISCO 1841",
+          "DESCRIPTION": "ROUTER_CISCO_1841",
+          "SERIAL NUMBER": "FHK140274HL",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1015,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1015,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "ROUTER",
+          "DETAILS": "CISCO 8300 SERIES ROUTER",
+          "DESCRIPTION": "FMS_ROUTER_CISCO_8300",
+          "SERIAL NUMBER": "FLM273011XQ",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "SERVER ROOM"
+        }
+      },
+      {
+        "row": 1016,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1016,
+          "SUPPORT TYPE": "FMS",
+          "ASSET TYPE": "SERVER",
+          "DETAILS": "DELL POWEREDGE R650XS",
+          "DESCRIPTION": "FMS_SERVER_DELL POWEREDGE R650XS",
+          "SERIAL NUMBER": "DXMPMS3",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "NEW MEDIA SERVER"
+        }
+      },
+      {
+        "row": 1017,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1017,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SERVER",
+          "DETAILS": "HP PROLIANT DL380 G10 SERVER",
+          "DESCRIPTION": "SERVER_HP PROLIANT DL380 G10",
+          "SERIAL NUMBER": "SGH903XS8R",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "DIGITAL STANDEE APPLICATION SERVER"
+        }
+      },
+      {
+        "row": 1018,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1018,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SERVER",
+          "DETAILS": "HP PROLIANT DL380 G10 SERVER",
+          "DESCRIPTION": "SERVER_HP PROLIANT DL380 G10",
+          "SERIAL NUMBER": "SGH903XS8T",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "OLD ANTIVIRUS SERVER"
+        }
+      },
+      {
+        "row": 1019,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1019,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SERVER",
+          "DETAILS": "HP PROLIANT DL380 G10 SERVER",
+          "DESCRIPTION": "SERVER_HP PROLIANT DL380 G10",
+          "SERIAL NUMBER": "SGH903XS8Y",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "AD SERVER"
+        }
+      },
+      {
+        "row": 1020,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1020,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SERVER",
+          "DETAILS": "HP PROLIANT DL380 G10 SERVER",
+          "DESCRIPTION": "SERVER_HP PROLIANT DL380 G10",
+          "SERIAL NUMBER": "SGH903XS93",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "PATCH MGMT SERVER"
+        }
+      },
+      {
+        "row": 1021,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1021,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SERVER",
+          "DETAILS": "HP PROLIANT DL380 G5 SERVER",
+          "DESCRIPTION": "SERVER_HP PROLIANT DL380 G5",
+          "SERIAL NUMBER": "SGH9121J4D",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "OLD MEDIA SERVER"
+        }
+      },
+      {
+        "row": 1022,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1022,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960G ",
+          "DESCRIPTION": "NW_CISCO 2960 - G",
+          "SERIAL NUMBER": " FOC1049ZGZS",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "5TH  FLOOR SECOND SWITCH"
+        }
+      },
+      {
+        "row": 1023,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1023,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960G ",
+          "DESCRIPTION": "NW_CISCO 2960 - G",
+          "SERIAL NUMBER": " FOC1049ZGZX",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "2ND FLOOR FIRST SWITCH"
+        }
+      },
+      {
+        "row": 1024,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1024,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960G ",
+          "DESCRIPTION": "NW_CISCO 2960 - G",
+          "SERIAL NUMBER": " FOC1222X3YF",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "4TH  FLOOR SECOND SWITCH"
+        }
+      },
+      {
+        "row": 1025,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1025,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO LAYER3 WS-C3560X-24T-S",
+          "DESCRIPTION": "NW_CISCO LAYER3 WS-C3560X-24T-S",
+          "SERIAL NUMBER": "FDO1647R0ZN",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "NETWORK RACK AS STANDBY"
+        }
+      },
+      {
+        "row": 1026,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1026,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960G ",
+          "DESCRIPTION": "NW_CISCO 2960 - G",
+          "SERIAL NUMBER": "FOC1049ZFQ0",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "5TH FLOOR FIRST SWITCH"
+        }
+      },
+      {
+        "row": 1027,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1027,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960G ",
+          "DESCRIPTION": "NW_CISCO 2960 - G",
+          "SERIAL NUMBER": "FOC1049ZFQH",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "3RD  FLOOR FIRST SWITCH"
+        }
+      },
+      {
+        "row": 1028,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1028,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960G ",
+          "DESCRIPTION": "NW_CISCO 2960 - G",
+          "SERIAL NUMBER": "FOC1049ZGZU",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "2ND FLOOR SECOND SWITCH"
+        }
+      },
+      {
+        "row": 1029,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1029,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960G ",
+          "DESCRIPTION": "NW_CISCO 2960 - G",
+          "SERIAL NUMBER": "FOC1049ZGZV",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "6TH FLOOR FIRST SWITCH"
+        }
+      },
+      {
+        "row": 1030,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1030,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960G ",
+          "DESCRIPTION": "NW_CISCO 2960 - G",
+          "SERIAL NUMBER": "FOC1049ZGZW",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "2ND FLOOR THIRD SWITCH"
+        }
+      },
+      {
+        "row": 1031,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1031,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960G ",
+          "DESCRIPTION": "NW_CISCO 2960 - G",
+          "SERIAL NUMBER": "FOC1049ZH0D",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "4TH FLOOR FIRST SWITCH"
+        }
+      },
+      {
+        "row": 1032,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1032,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960G ",
+          "DESCRIPTION": "NW_CISCO 2960 - G",
+          "SERIAL NUMBER": "FOC1049ZH35",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "6TH  FLOOR SECOND SWITCH"
+        }
+      },
+      {
+        "row": 1033,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1033,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960G ",
+          "DESCRIPTION": "NW_CISCO 2960 - G",
+          "SERIAL NUMBER": "FOC1049ZH3S",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "3RD  FLOOR SECOND SWITCH"
+        }
+      },
+      {
+        "row": 1034,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1034,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "CISCO CATALYST 2960S",
+          "DESCRIPTION": "NW_CISCO  2960 -S",
+          "SERIAL NUMBER": "FOC1529Z4B4",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1035,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1035,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "24 PORT TP LINK",
+          "DESCRIPTION": "NW_TP LINK -24 PORT",
+          "SERIAL NUMBER": "IOCLSWT50",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "6TH FLOOR NETWORK RACK FOR BROADBAND"
+        }
+      },
+      {
+        "row": 1036,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1036,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "24 PORT TP LINK",
+          "DESCRIPTION": "NW_TP LINK -24 PORT",
+          "SERIAL NUMBER": "IOCLSWT51",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1037,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1037,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "DLINK - 24 PORT",
+          "DESCRIPTION": "NW_D LINK -24 PORT",
+          "SERIAL NUMBER": "IOCLSWT52",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "4TH CONF ROOM RACK"
+        }
+      },
+      {
+        "row": 1038,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1038,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "DLINK - 24 PORT",
+          "DESCRIPTION": "NW_D LINK -24 PORT",
+          "SERIAL NUMBER": "IOCLSWT53",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STATE OFFICE 5TH FLOOR OPERATIONS"
+        }
+      },
+      {
+        "row": 1039,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1039,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "3 COM- 24 PORT",
+          "DESCRIPTION": "NW_3 COM -24 PORT",
+          "SERIAL NUMBER": "LV5G270065331",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "STOCK AS STANDBY"
+        }
+      },
+      {
+        "row": 1040,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1040,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "DLINK - 24 PORT",
+          "DESCRIPTION": "NW_D LINK -24 PORT",
+          "SERIAL NUMBER": "QS831I1002581",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "2ND FLOOR NETWORK RACK BROADBAND SWITCH"
+        }
+      },
+      {
+        "row": 1041,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1041,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "SWITCH",
+          "DETAILS": "DLINK - 24 PORT",
+          "DESCRIPTION": "NW_D LINK -24 PORT",
+          "SERIAL NUMBER": "QS831I1002581",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "2ND FLOOR FOURTH SWITCH"
+        }
+      },
+      {
+        "row": 1042,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1042,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "WIRELESS ACCESS POINT",
+          "DETAILS": "GRANDSTREAM GWN 7615",
+          "DESCRIPTION": "NW_OTHER_GRANDSTREAM_ WAP",
+          "SERIAL NUMBER": "259LAJFLC23A9978",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "HOD SECTION "
+        }
+      },
+      {
+        "row": 1043,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1043,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "WIRELESS ACCESS POINT",
+          "DETAILS": "GRANDSTREAM GWN 7615",
+          "DESCRIPTION": "NW_OTHER_GRANDSTREAM_ WAP",
+          "SERIAL NUMBER": "259LAJFLC23A99B0",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "SYSTEM  DEPT."
+        }
+      },
+      {
+        "row": 1044,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1044,
+          "SUPPORT TYPE": "AMC",
+          "ASSET TYPE": "WIRELESS ACCESS POINT",
+          "DETAILS": "GRANDSTREAM GWN 7615",
+          "DESCRIPTION": "NW_OTHER_GRANDSTREAM_ WAP",
+          "SERIAL NUMBER": "259LAJFLC23A99B4",
+          "ASSET LOCATION": "STATE OFFICE SYSTEM",
+          "ASSET OWNER": "ED SEC"
+        }
+      },
+      {
+        "row": 1166,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1166,
+          "DETAILS": "HELPDESK MANAGEMENT :UPSO-I"
+        }
+      },
+      {
+        "row": 1167,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1167,
+          "DETAILS": "HELPDESK MANAGEMENT :UPSO-I"
+        }
+      },
+      {
+        "row": 1168,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1168,
+          "DETAILS": "HELPDESK MANAGEMENT :UPSO-I"
+        }
+      },
+      {
+        "row": 1169,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1169,
+          "DETAILS": "HELPDESK MANAGEMENT :UPSO-I"
+        }
+      },
+      {
+        "row": 1170,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1170,
+          "DETAILS": "HELPDESK MANAGEMENT :UPSO-I"
+        }
+      },
+      {
+        "row": 1171,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1171,
+          "DETAILS": "HELPDESK MANAGEMENT :UPSO-I"
+        }
+      },
+      {
+        "row": 1172,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1172,
+          "DETAILS": "HELPDESK MANAGEMENT :UPSO-I"
+        }
+      },
+      {
+        "row": 1173,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1173,
+          "DETAILS": "HELPDESK MANAGEMENT :UPSO-I"
+        }
+      },
+      {
+        "row": 1174,
+        "reason": "Unknown location",
+        "data": {
+          "S.NO.": 1174,
+          "DETAILS": "HELPDESK MANAGEMENT :UPSO-I"
+        }
+      }
+    ]
+  },
+  "serviceRequests": {
+    "imported": 6,
+    "rejected": [
+      {
+        "row": "SR1706202621349",
+        "reason": "\nInvalid `prisma.serviceRequest.create()` invocation:\n\n{\n  data: {\n    request_id: \"SR1706202621349\",\n    logged_date: new Date(\"Invalid Date\"),\n                 ~~~~~~~~~~~~~~~~~~~~~~~~\n    location_id: 264,\n    sub_location: \"LUCKNOW-MARKETING\",\n    category: \"Desktop\",\n    sub_category: \"Keyboard\",\n    priority: \"MEDIUM\",\n    title: \"USB KEYBOARD & USB MOUSE NOT WORKING\",\n    description: \"USB KEYBOARD & USB MOUSE ISSUE\",\n    asset_id: 5776,\n    reported_by: \"VARANASI AO - MUKHLISA MARIYAM\",\n    submitter: \"Haritosh Mishra\",\n    status: \"New\",\n    expected_resolution_date: null,\n    sla_flag: null,\n    source: \"import\"\n  }\n}\n\nInvalid value for argument `logged_date`: Provided Date object is invalid. Expected Date.",
+        "data": {
+          "SERVICEREQUESTID": "SR1706202621349",
+          "LOGGED DATE": "17-06-2026",
+          "LOCATION": "UTTAR PRADESH",
+          "SUB LOCATION": "LUCKNOW-MARKETING",
+          "CATEGORY": "Desktop",
+          "SUB CATEGORY": "Keyboard",
+          "PRIORITY": "Medium",
+          "TITLE (REQUEST SUBJECT)": "USB KEYBOARD & USB MOUSE NOT WORKING",
+          "END USER NAME": "VARANASI AO - MUKHLISA MARIYAM",
+          "END USER ADDRESS": "MR RAM KUMAR SHUKLA INDIAN OIL CORPORATION LTD  (MD)  INDANE BOTTLING PLANT  NH-31  BABATPUR ROAD  HARAHUA  VARANASI - 221105. MOB:-  7754998889",
+          "SUBMITTER": "Haritosh Mishra",
+          "REQUEST DESCRIPTION": "USB KEYBOARD & USB MOUSE ISSUE",
+          "SERIAL NO": "ACL05635",
+          "MAKE": "ACXXEL",
+          "MODEL": "ACXXEL  I7",
+          "PART NO./PART DESCRIPTION": "USB KEYBOARD  and  USB MOUSE"
+        }
+      },
+      {
+        "row": "SR1706202621351",
+        "reason": "\nInvalid `prisma.serviceRequest.create()` invocation:\n\n{\n  data: {\n    request_id: \"SR1706202621351\",\n    logged_date: new Date(\"Invalid Date\"),\n                 ~~~~~~~~~~~~~~~~~~~~~~~~\n    location_id: 264,\n    sub_location: \"LUCKNOW-MARKETING\",\n    category: \"Desktop\",\n    sub_category: \"Keyboard\",\n    priority: \"MEDIUM\",\n    title: \"USB KEYBOARD & USB MOUSE NOT WORKING\",\n    description: \"USB KEYBOARD & USB MOUSE NOT WORKING\",\n    asset_id: 5389,\n    reported_by: \"KANPUR DO - GAURAV VERMA\",\n    submitter: \"Haritosh Mishra\",\n    status: \"New\",\n    expected_resolution_date: null,\n    sla_flag: null,\n    source: \"import\"\n  }\n}\n\nInvalid value for argument `logged_date`: Provided Date object is invalid. Expected Date.",
+        "data": {
+          "SERVICEREQUESTID": "SR1706202621351",
+          "LOGGED DATE": "17-06-2026",
+          "LOCATION": "UTTAR PRADESH",
+          "SUB LOCATION": "LUCKNOW-MARKETING",
+          "CATEGORY": "Desktop",
+          "SUB CATEGORY": "Keyboard",
+          "PRIORITY": "Medium",
+          "TITLE (REQUEST SUBJECT)": "USB KEYBOARD & USB MOUSE NOT WORKING",
+          "END USER NAME": "KANPUR DO - GAURAV VERMA",
+          "END USER ADDRESS": "MR PRABHAKAR INDIAN OIL CORPORATION LTD. (MD)  BULK TERMINAL  KALPI ROAD  PANKI  KANPUR - 208020 (U.P.). MOB:  9935984111",
+          "SUBMITTER": "Haritosh Mishra",
+          "REQUEST DESCRIPTION": "USB KEYBOARD & USB MOUSE NOT WORKING",
+          "SERIAL NO": "UXVTUSI512M5095935",
+          "MAKE": "ACER",
+          "MODEL": "ACER VERITON M200 - P565",
+          "PART NO./PART DESCRIPTION": "USB KEYBOARD  and  USB MOUSE"
+        }
+      },
+      {
+        "row": "SR1706202621352",
+        "reason": "\nInvalid `prisma.serviceRequest.create()` invocation:\n\n{\n  data: {\n    request_id: \"SR1706202621352\",\n    logged_date: new Date(\"Invalid Date\"),\n                 ~~~~~~~~~~~~~~~~~~~~~~~~\n    location_id: 264,\n    sub_location: \"LUCKNOW-MARKETING\",\n    category: \"Desktop\",\n    sub_category: \"Keyboard\",\n    priority: \"VERY LOW\",\n    title: \"USB KEYBOARD & USB MOUSE NOT WORKING\",\n    description: \"USB KEYBOARD & USB MOUSE NOT WORKING\",\n    asset_id: 5386,\n    reported_by: \"KANPUR DO - ADARSH SACHAN\",\n    submitter: \"Haritosh Mishra\",\n    status: \"New\",\n    expected_resolution_date: null,\n    sla_flag: null,\n    source: \"import\"\n  }\n}\n\nInvalid value for argument `logged_date`: Provided Date object is invalid. Expected Date.",
+        "data": {
+          "SERVICEREQUESTID": "SR1706202621352",
+          "LOGGED DATE": "17-06-2026",
+          "LOCATION": "UTTAR PRADESH",
+          "SUB LOCATION": "LUCKNOW-MARKETING",
+          "CATEGORY": "Desktop",
+          "SUB CATEGORY": "Keyboard",
+          "PRIORITY": "Very Low",
+          "TITLE (REQUEST SUBJECT)": "USB KEYBOARD & USB MOUSE NOT WORKING",
+          "END USER NAME": "KANPUR DO - ADARSH SACHAN",
+          "END USER ADDRESS": "MR PRABHAKAR INDIAN OIL CORPORATION LTD. (MD)  BULK TERMINAL  KALPI ROAD  PANKI  KANPUR - 208020 (U.P.). MOB:  9935984111",
+          "SUBMITTER": "Haritosh Mishra",
+          "REQUEST DESCRIPTION": "USB KEYBOARD & USB MOUSE NOT WORKING",
+          "SERIAL NO": "UXVTUSI512M5095908",
+          "MAKE": "ACER",
+          "MODEL": "ACER VERITON M200 - P565",
+          "PART NO./PART DESCRIPTION": "USB KEYBOARD  and  USB MOUSE"
+        }
+      },
+      {
+        "row": "SR2606202621857",
+        "reason": "\nInvalid `prisma.serviceRequest.create()` invocation:\n\n{\n  data: {\n    request_id: \"SR2606202621857\",\n    logged_date: new Date(\"Invalid Date\"),\n                 ~~~~~~~~~~~~~~~~~~~~~~~~\n    location_id: 264,\n    sub_location: \"LUCKNOW-MARKETING\",\n    category: \"Desktop\",\n    sub_category: \"Keyboard\",\n    priority: \"MEDIUM\",\n    title: \"USB KEYBOARD & USB MOUSE NOT WORKING\",\n    description: \"USB KEYBOARD & USB MOUSE NOT WORKING\",\n    asset_id: 5783,\n    reported_by: \"VARANASI AO - NITESH KUMAR\",\n    submitter: \"Haritosh Mishra\",\n    status: \"New\",\n    expected_resolution_date: null,\n    sla_flag: null,\n    source: \"import\"\n  }\n}\n\nInvalid value for argument `logged_date`: Provided Date object is invalid. Expected Date.",
+        "data": {
+          "SERVICEREQUESTID": "SR2606202621857",
+          "LOGGED DATE": "26-06-2026",
+          "LOCATION": "UTTAR PRADESH",
+          "SUB LOCATION": "LUCKNOW-MARKETING",
+          "CATEGORY": "Desktop",
+          "SUB CATEGORY": "Keyboard",
+          "PRIORITY": "Medium",
+          "TITLE (REQUEST SUBJECT)": "USB KEYBOARD & USB MOUSE NOT WORKING",
+          "END USER NAME": "VARANASI AO - NITESH KUMAR",
+          "END USER ADDRESS": "MR RAM KUMAR SHUKLA INDIAN OIL CORPORATION LTD  (MD)  INDANE BOTTLING PLANT  NH-31  BABATPUR ROAD  HARAHUA  VARANASI - 221105. MOB:-  7754998889",
+          "SUBMITTER": "Haritosh Mishra",
+          "REQUEST DESCRIPTION": "USB KEYBOARD & USB MOUSE NOT WORKING",
+          "SERIAL NO": "UXVTUSI512M5096258",
+          "MAKE": "ACER",
+          "MODEL": "ACER VERITON M200 - P565",
+          "PART NO./PART DESCRIPTION": "USB KEYBOARD  and  USB MOUSE"
+        }
+      },
+      {
+        "row": "SR2606202621858",
+        "reason": "\nInvalid `prisma.serviceRequest.create()` invocation:\n\n{\n  data: {\n    request_id: \"SR2606202621858\",\n    logged_date: new Date(\"Invalid Date\"),\n                 ~~~~~~~~~~~~~~~~~~~~~~~~\n    location_id: 264,\n    sub_location: \"LUCKNOW-MARKETING\",\n    category: \"Desktop\",\n    sub_category: \"HDD\",\n    priority: \"VERY LOW\",\n    title: \"OS NOT GETTING INSTALLED\",\n    description: \"1 TB SATA HDD ISSUE\",\n    asset_id: null,\n    reported_by: \"STATE OFFICE - AFTAB AHMED\",\n    submitter: \"Haritosh Mishra\",\n    status: \"New\",\n    expected_resolution_date: null,\n    sla_flag: null,\n    source: \"import\"\n  }\n}\n\nInvalid value for argument `logged_date`: Provided Date object is invalid. Expected Date.",
+        "data": {
+          "SERVICEREQUESTID": "SR2606202621858",
+          "LOGGED DATE": "26-06-2026",
+          "LOCATION": "UTTAR PRADESH",
+          "SUB LOCATION": "LUCKNOW-MARKETING",
+          "CATEGORY": "Desktop",
+          "SUB CATEGORY": "HDD",
+          "PRIORITY": "Very Low",
+          "TITLE (REQUEST SUBJECT)": "OS NOT GETTING INSTALLED",
+          "END USER NAME": "STATE OFFICE - AFTAB AHMED",
+          "END USER ADDRESS": "HARITOSH MISHRA  INDIAN OIL CORPORATION LIMITED   (MD) UP STATE OFFICE 1  INDIAN OIL BHAVAN  TC-39/V  VIBHUTI KHAND  GOMTI NAGAR  LUCKNOW UTTAR PRADESH -226010 MOB: 9956172789",
+          "SUBMITTER": "Haritosh Mishra",
+          "REQUEST DESCRIPTION": "1 TB SATA HDD ISSUE",
+          "SERIAL NO": "INA916R03Y",
+          "MAKE": "HP",
+          "MODEL": "HP PRODESK 600",
+          "PART NO./PART DESCRIPTION": "1 TB SATA HDD"
+        }
+      },
+      {
+        "row": "SR2606202621860",
+        "reason": "\nInvalid `prisma.serviceRequest.create()` invocation:\n\n{\n  data: {\n    request_id: \"SR2606202621860\",\n    logged_date: new Date(\"Invalid Date\"),\n                 ~~~~~~~~~~~~~~~~~~~~~~~~\n    location_id: 264,\n    sub_location: \"LUCKNOW-MARKETING\",\n    category: \"Desktop\",\n    sub_category: \"Keyboard\",\n    priority: \"HIGH\",\n    title: \"WIRELESS KBD & MOUSE NOT WORKING\",\n    description: \"WIRELESS KBD & MOUSE NOT WORKING\",\n    asset_id: null,\n    reported_by: \"STATE OFFICE - RAJESH  GUPTA\",\n    submitter: \"Haritosh Mishra\",\n    status: \"New\",\n    expected_resolution_date: null,\n    sla_flag: null,\n    source: \"import\"\n  }\n}\n\nInvalid value for argument `logged_date`: Provided Date object is invalid. Expected Date.",
+        "data": {
+          "SERVICEREQUESTID": "SR2606202621860",
+          "LOGGED DATE": "26-06-2026",
+          "LOCATION": "UTTAR PRADESH",
+          "SUB LOCATION": "LUCKNOW-MARKETING",
+          "CATEGORY": "Desktop",
+          "SUB CATEGORY": "Keyboard",
+          "PRIORITY": "High",
+          "TITLE (REQUEST SUBJECT)": "WIRELESS KBD & MOUSE NOT WORKING",
+          "END USER NAME": "STATE OFFICE - RAJESH  GUPTA",
+          "END USER ADDRESS": "HARITOSH MISHRA  INDIAN OIL CORPORATION LIMITED   (MD) UP STATE OFFICE 1  INDIAN OIL BHAVAN  TC-39/V  VIBHUTI KHAND  GOMTI NAGAR  LUCKNOW UTTAR PRADESH -226010 MOB: 9956172789",
+          "SUBMITTER": "Haritosh Mishra",
+          "REQUEST DESCRIPTION": "WIRELESS KBD & MOUSE NOT WORKING",
+          "SERIAL NO": "4J5LBV3",
+          "MAKE": "DELL",
+          "MODEL": "DELL OPTIPLEX 5400 AIO",
+          "PART NO./PART DESCRIPTION": "WIRELESS KEYBOARD  and  MOUSE"
+        }
+      }
+    ]
+  },
+  "warnings": [
+    {
+      "type": "duplicateLocationCode",
+      "items": [
+        {
+          "code": "1029",
+          "existing": "Allahabad AFS",
+          "duplicate": "Allahabad AFS Civil Base"
+        }
+      ]
+    }
+  ]
+}

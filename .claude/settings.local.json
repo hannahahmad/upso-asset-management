@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(nohup npm run dev)",
+      "Bash(disown)",
+      "Bash(curl -sf http://localhost:4000/)",
+      "Bash(break)",
+      "Read(//private/tmp/**)",
+      "Bash(lsof -ti:4000)",
+      "Bash(lsof -i:4000)",
+      "Bash(kill 29275)",
+      "Bash(xargs -r kill)",
+      "Bash(curl -sf http://localhost:5173/)",
+      "Bash(sed -i '' 's/height: 200 }/height: 400 }/' /private/tmp/claude-502/-Users-ahmad-Desktop-project/e9e18a85-325f-4114-83fa-00e4b0248341/scratchpad/pw/chip_removed.mjs)",
+      "Bash(node /private/tmp/claude-502/-Users-ahmad-Desktop-project/e9e18a85-325f-4114-83fa-00e4b0248341/scratchpad/pw/chip_removed.mjs)",
+      "Bash(lsof -ti:4000 -sTCP:LISTEN)",
+      "Bash(lsof -ti:5173 -sTCP:LISTEN)"
+    ]
+  }
+}
