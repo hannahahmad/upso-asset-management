@@ -1,0 +1,10 @@
+{
+  "name": "upso1-root",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "./start.sh",
+    "dev": "./start.sh",
+    "test": "cd backend && npm test"
+  }
+}

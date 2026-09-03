@@ -9,6 +9,14 @@ const router = express.Router();
 router.get('/', authenticate, async (req, res) => {
   const { search, status, location_id, support_type, owner_user_id, asset_type_id } = req.query;
   const where = { active: true };
+
+  // Role-based access scoping
+  if (req.user.role === 'User') {
+    where.owner_user_id = req.user.userId;
+  } else if (req.user.role === 'LocationCoordinator' && req.user.location_id) {
+    where.location_id = req.user.location_id;
+  }
+
   if (search) {
     where.OR = [
       { asset_id: { contains: search, mode: 'insensitive' } },
@@ -19,9 +27,13 @@ router.get('/', authenticate, async (req, res) => {
     ];
   }
   if (status) where.lifecycle_status = status;
-  if (location_id) where.location_id = Number(location_id);
+  if (location_id && (req.user.role === 'Administrator' || req.user.role === 'AssetManager')) {
+    where.location_id = Number(location_id);
+  }
   if (support_type) where.support_type = support_type;
-  if (owner_user_id) where.owner_user_id = Number(owner_user_id);
+  if (owner_user_id && (req.user.role === 'Administrator' || req.user.role === 'AssetManager')) {
+    where.owner_user_id = Number(owner_user_id);
+  }
   if (asset_type_id) where.asset_type_id = Number(asset_type_id);
   const assets = await prisma.asset.findMany({
     where,
@@ -42,6 +54,15 @@ router.get('/:id', authenticate, async (req, res) => {
     },
   });
   if (!asset) return res.status(404).json({ error: 'Asset not found' });
+
+  // Authorization checks
+  if (req.user.role === 'User' && asset.owner_user_id !== req.user.userId) {
+    return res.status(403).json({ error: 'Forbidden: Access denied to this asset.' });
+  }
+  if (req.user.role === 'LocationCoordinator' && req.user.location_id && asset.location_id !== req.user.location_id) {
+    return res.status(403).json({ error: 'Forbidden: Asset belongs to another location.' });
+  }
+
   res.json(asset);
 });
 
@@ -351,7 +372,23 @@ router.delete('/:id', authenticate, authorize('Administrator', 'AssetManager'), 
   if (existing.source === 'import') {
     return res.status(403).json({ error: 'Legacy imported assets cannot be deleted.' });
   }
-  await prisma.asset.delete({ where: { id } });
+  
+  await prisma.$transaction(async (tx) => {
+    await tx.asset.update({ where: { id }, data: { active: false } });
+    await tx.auditLog.create({
+      data: {
+        entity_type: 'Asset',
+        asset_id: id,
+        action: 'Delete',
+        field_changed: 'active',
+        old_value: 'true',
+        new_value: 'false',
+        changed_by: String(req.user.userId),
+        remark: 'Soft deleted asset',
+      },
+    });
+  });
+
   res.json({ success: true });
 });
 

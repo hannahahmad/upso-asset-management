@@ -5,13 +5,24 @@ import { authenticate } from '../middleware/auth.js';
 const router = express.Router();
 
 router.get('/', authenticate, async (req, res) => {
-  const totalAssets = await prisma.asset.count({ where: { active: true } });
-  const amcCount = await prisma.asset.count({ where: { support_type: 'AMC', active: true } });
-  const fmsCount = await prisma.asset.count({ where: { support_type: 'FMS', active: true } });
+  const assetWhere = { active: true };
+  const srWhere = { active: true };
+
+  if (req.user.role === 'LocationCoordinator' && req.user.location_id) {
+    assetWhere.location_id = req.user.location_id;
+    srWhere.location_id = req.user.location_id;
+  } else if (req.user.role === 'User') {
+    assetWhere.owner_user_id = req.user.userId;
+    srWhere.submitted_by_user_id = req.user.userId;
+  }
+
+  const totalAssets = await prisma.asset.count({ where: assetWhere });
+  const amcCount = await prisma.asset.count({ where: { ...assetWhere, support_type: 'AMC' } });
+  const fmsCount = await prisma.asset.count({ where: { ...assetWhere, support_type: 'FMS' } });
 
   const assetsByTypeGroup = await prisma.asset.groupBy({
     by: ['asset_type_id'],
-    where: { active: true },
+    where: assetWhere,
     _count: { id: true },
   });
   const typeIds = assetsByTypeGroup.map((item) => item.asset_type_id);
@@ -28,7 +39,7 @@ router.get('/', authenticate, async (req, res) => {
 
   const assetsByLocationGroup = await prisma.asset.groupBy({
     by: ['location_id'],
-    where: { active: true },
+    where: assetWhere,
     _count: { id: true },
   });
   const locationIds = assetsByLocationGroup.map((item) => item.location_id);
@@ -45,7 +56,7 @@ router.get('/', authenticate, async (req, res) => {
 
   const complaints = await prisma.serviceRequest.groupBy({
     by: ['status'],
-    where: { active: true },
+    where: srWhere,
     _count: { id: true },
   });
   res.json({ totalAssets, amcCount, fmsCount, assetsByType, assetsByLocation, complaints });

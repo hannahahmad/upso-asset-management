@@ -91,12 +91,6 @@ function normalizeAssetType(value) {
   return null;
 }
 
-const poPool = Array.from({ length: 15 }, () => String(Math.floor(10000000 + Math.random() * 90000000)));
-
-function extractPONumber(row) {
-  return poPool[Math.floor(Math.random() * poPool.length)];
-}
-
 function formatAssetId(poNumber, assetTypeCode, seq) {
   const poPart = poNumber || 'LEGACY';
   const seqPart = String(seq).padStart(4, '0');
@@ -208,7 +202,8 @@ export async function runSync() {
 
       const existing = await prisma.asset.findUnique({ where: { serial_number: serial } });
 
-      const po = rowObj['PO'] || rowObj['PO NUMBER'] || extractPONumber(rowObj);
+      const rawPo = rowObj['PO'] || rowObj['PO NUMBER'];
+      const po = rawPo ? String(rawPo).trim() : (existing ? existing.po_number : null);
       const make = String(rowObj['MAKE'] ?? rowObj['DETAILS'] ?? rowObj['DESCRIPTION'] ?? '').trim() || null;
       const model = String(rowObj['MODEL'] ?? '').trim() || null;
       const description = String(rowObj['DESCRIPTION'] ?? '').trim() || null;

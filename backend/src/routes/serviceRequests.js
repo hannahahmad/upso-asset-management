@@ -10,13 +10,19 @@ router.get('/', authenticate, async (req, res) => {
   const { status, location_id, priority, mine } = req.query;
   const where = { active: true };
   if (status) where.status = status;
-  if (location_id) where.location_id = Number(location_id);
+  if (location_id && (req.user.role === 'Administrator' || req.user.role === 'AssetManager')) {
+    where.location_id = Number(location_id);
+  }
   if (priority) where.priority = priority;
+
   if (req.user.role === 'User') {
     where.submitted_by_user_id = req.user.userId;
+  } else if (req.user.role === 'LocationCoordinator' && req.user.location_id) {
+    where.location_id = req.user.location_id;
   } else if (mine === 'true') {
     where.submitted_by_user_id = req.user.userId;
   }
+
   const requests = await prisma.serviceRequest.findMany({
     where,
     include: { location: true, asset: { include: { location: true } }, submittedBy: true },
@@ -33,6 +39,9 @@ router.get('/:id', authenticate, async (req, res) => {
   if (!request) return res.status(404).json({ error: 'Service request not found' });
   if (req.user.role === 'User' && request.submitted_by_user_id !== req.user.userId) {
     return res.status(403).json({ error: 'Forbidden' });
+  }
+  if (req.user.role === 'LocationCoordinator' && req.user.location_id && request.location_id !== req.user.location_id) {
+    return res.status(403).json({ error: 'Forbidden: Service request belongs to another location.' });
   }
   res.json(request);
 });
@@ -63,6 +72,8 @@ router.post('/', authenticate, authorize('Administrator', 'AssetManager', 'Locat
       return res.status(403).json({ error: 'You can only raise complaints for assets allotted to you.' });
     }
     locationId = ownedAsset.location_id;
+  } else if (req.user.role === 'LocationCoordinator' && req.user.location_id) {
+    locationId = req.user.location_id;
   }
 
   if (!data.title || !locationId || !data.category || !data.priority) {
@@ -236,6 +247,14 @@ router.patch('/:id', authenticate, authorize('Administrator', 'AssetManager', 'L
     return res.status(400).json({ error: referenceErrors.join(', ') });
   }
 
+  const targetStatus = updates.status || existing.status;
+  if ((targetStatus === 'Resolved' || targetStatus === 'Closed')) {
+    const resText = updates.resolution !== undefined ? updates.resolution : existing.resolution;
+    if (!resText || !String(resText).trim()) {
+      return res.status(400).json({ error: 'Resolution details are required when marking a service request as Resolved or Closed.' });
+    }
+  }
+
   const changedFields = Object.keys(updates).filter((field) => String(existing[field] ?? '') !== String(updates[field] ?? ''));
   if (changedFields.length === 0) {
     return res.json(existing);
@@ -321,7 +340,23 @@ router.delete('/:id', authenticate, authorize('Administrator', 'AssetManager', '
   if (existing.source === 'import') {
     return res.status(403).json({ error: 'Legacy imported service requests cannot be deleted.' });
   }
-  await prisma.serviceRequest.delete({ where: { id } });
+
+  await prisma.$transaction(async (tx) => {
+    await tx.serviceRequest.update({ where: { id }, data: { active: false } });
+    await tx.auditLog.create({
+      data: {
+        entity_type: 'ServiceRequest',
+        service_request_id: id,
+        action: 'Delete',
+        field_changed: 'active',
+        old_value: 'true',
+        new_value: 'false',
+        changed_by: String(req.user.userId),
+        remark: 'Soft deleted service request',
+      },
+    });
+  });
+
   res.json({ success: true });
 });
 

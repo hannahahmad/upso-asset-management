@@ -40,6 +40,12 @@ export async function apiFetch(path, options = {}) {
   });
 
   if (!response.ok) {
+    if (response.status === 401) {
+      clearAuth();
+      if (typeof window !== 'undefined') {
+        window.dispatchEvent(new Event('upso1:logout'));
+      }
+    }
     const body = await response.json().catch(() => null);
     const message = body?.error || response.statusText || 'Request failed';
     throw new Error(message);

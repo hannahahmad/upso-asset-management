@@ -30,6 +30,15 @@ router.post('/', authenticate, authorize('Administrator'), async (req, res) => {
   const existing = await prisma.user.findUnique({ where: { email } });
   if (existing) return res.status(400).json({ error: 'Duplicate email' });
 
+  let locationId = data.location_id ? Number(data.location_id) : null;
+  if (locationId) {
+    if (isNaN(locationId) || !Number.isInteger(locationId)) {
+      return res.status(400).json({ error: 'Invalid location_id' });
+    }
+    const loc = await prisma.location.findUnique({ where: { id: locationId } });
+    if (!loc) return res.status(400).json({ error: 'Location not found' });
+  }
+
   const password = await bcrypt.hash(data.password, 10);
   const user = await prisma.user.create({
     data: {
@@ -37,7 +46,7 @@ router.post('/', authenticate, authorize('Administrator'), async (req, res) => {
       email,
       password,
       role: data.role.trim(),
-      location_id: data.location_id ? Number(data.location_id) : null,
+      location_id: locationId,
       source: 'manual',
     },
     include: { location: true },
@@ -54,7 +63,17 @@ router.patch('/:id', authenticate, authorize('Administrator'), async (req, res) 
   const updates = {};
   if (data.name !== undefined) updates.name = data.name.trim();
   if (data.role !== undefined) updates.role = data.role.trim();
-  if (data.location_id !== undefined) updates.location_id = data.location_id ? Number(data.location_id) : null;
+  if (data.location_id !== undefined) {
+    const locId = data.location_id ? Number(data.location_id) : null;
+    if (locId) {
+      if (isNaN(locId) || !Number.isInteger(locId)) {
+        return res.status(400).json({ error: 'Invalid location_id' });
+      }
+      const loc = await prisma.location.findUnique({ where: { id: locId } });
+      if (!loc) return res.status(400).json({ error: 'Location not found' });
+    }
+    updates.location_id = locId;
+  }
   if (data.email !== undefined) {
     const email = data.email.trim().toLowerCase();
     const dup = await prisma.user.findUnique({ where: { email } });

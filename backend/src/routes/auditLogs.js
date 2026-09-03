@@ -1,10 +1,10 @@
 import express from 'express';
 import prisma from '../prismaClient.js';
-import { authenticate } from '../middleware/auth.js';
+import { authenticate, authorize } from '../middleware/auth.js';
 
 const router = express.Router();
 
-router.get('/', authenticate, async (req, res) => {
+router.get('/', authenticate, authorize('Administrator', 'AssetManager'), async (req, res) => {
   const { entity_type, entity_id } = req.query;
   const where = {};
   if (entity_type) where.entity_type = entity_type;

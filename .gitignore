@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Environment secrets
+backend/.env
+
+# SQLite databases
+*.db
+*.db-journal
+
+# Build output
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Strix repo clone (not part of this project)
+strix-repo/
+
+# IDE
+.vscode/
+.idea/

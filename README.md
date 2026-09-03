@@ -11,7 +11,19 @@ This repository contains a full-stack web application for UPSO-1 IT asset invent
 - `ServiceRequestReport-639195597679312838 (2).xlsx` - sample service request export
 - `image001.png`, `image002.png`, `image003.png` - reference screenshots
 
-## Setup
+## Quick Start
+
+To launch both Backend (Port 4000) and Frontend (Port 5173) concurrently in a single command:
+
+```bash
+./start.sh
+# or
+npm start
+```
+
+Press `Ctrl + C` in the terminal to stop both servers.
+
+## Structure
 
 ### Backend
 

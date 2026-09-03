@@ -29,6 +29,14 @@ function App() {
     }
   }, [user]);
 
+  useEffect(() => {
+    const handleUnauthorized = () => {
+      setUser(null);
+    };
+    window.addEventListener('upso1:logout', handleUnauthorized);
+    return () => window.removeEventListener('upso1:logout', handleUnauthorized);
+  }, []);
+
   const handleLogout = () => {
     clearAuth();
     setUser(null);
